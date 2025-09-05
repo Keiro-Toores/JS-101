@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+#error-message {
+    color: red;
+    font-size: .7rem;
+}
+
+.list-element {
+    display: flex;
+    gap: .5rem;
+}
